@@ -17,6 +17,16 @@ This App is created using html, css, and React(javascript framework).
 - CSS: Grid Layout
 - Adaptive Grid based on Image size
 
+## Run this on your computer
+
+1. First create developer account on Unsplash using this link: https://unsplash.com/documentation
+
+2. Get your own Client-ID key for Unsplash API.
+
+3. Inside 'src/api/unsplash.js' insert your Client-ID as a value to the property of 'Authorization'.
+
+4. Now run the following scripts.
+
 ## Available Scripts
 
 1. First Install NPM by typing: `npm install` in your terminal.
